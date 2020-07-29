@@ -1,0 +1,5 @@
+join/
+  join.component.html
+  join.component.scss
+  join.component.spec.ts
+  join.component.ts

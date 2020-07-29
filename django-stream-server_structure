@@ -1,0 +1,8 @@
+django-stream-server/
+    manage.py
+    django-stream-server/
+        __init__.py
+        settings.py
+        urls.py
+        asgi.py
+        wsgi.py
